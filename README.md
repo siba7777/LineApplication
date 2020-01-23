@@ -1,1 +1,1 @@
-# LineApplication
+# C# で LINE Messaging API を使用するサンプルプログラム
